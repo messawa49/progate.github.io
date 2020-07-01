@@ -10,14 +10,6 @@ footer p {
 footer {
   padding-top: 30px;
 }
-.message {
-  padding: 15px 40px;
-  background-color: #5dca88;
-    cursor:pointer;
-    box-shadow:0 7px #1a7940;
-    float:center;
-  }
-
 .menu-icon {
   color: white;
   float:right;
@@ -25,7 +17,3 @@ footer {
   padding: 21px 0;
   display: none;
 }
-
-
-
-
