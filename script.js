@@ -99,3 +99,4 @@ decimal.addEventListener("click", (e) => {
     inputDecimal(e.target.value)
     updateScreen(currentNumber)
 })
+
